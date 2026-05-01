@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501200911UPOJJ1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501200911TRZ6JF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje: Divulgando la ciencia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Irene Báez Álvarez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Grabación de un podcast para dar a conocer grandes divulgadores y divulgadoras en ecología</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777656467390</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA: Divulgando la ciencia. Grabación de un podcast para dar a conocer grandes divulgadores y divulgadoras en ecología.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA: Divulgando la ciencia. Grabación de un podcast para dar a conocer grandes divulgadores y divulgadoras en ecología.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxm-ggx4om2qd</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje</blockName>
+      <iconName>puzzle</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxm-ggx4om2qd</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxm-3hmvxeux4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Esta SdA está dirigida al alumnado de 1º ESO y se centra en el estudio de la ecología, la sostenibilidad y la divulgación científica en la concienciación ambiental. A través de esta propuesta, el alumnado conocerá los saberes básicos habituales y, a la par, investigará sobre grandes divulgadores científicos relacionados con la ecología y la sostenibilidad, con el objetivo de conocer su labor.</p>
+<p>Como producto final, los estudiantes elaborarán un podcast divulgativo en el que presentarán la biografía y contribuciones a la ciencia de una persona destacada en el ámbito de las ciencias ambientales y la protección del medio ambiente, desarrollando en el proceso habilidades de búsqueda y selección de información, comprensión lectora, expresión oral, trabajo cooperativo y competencia digital, utilizando herramientas tecnológicas para la grabación y edición de audio e imágenes.</p>
+<p>Esta SdA fomenta el desarrollo de la conciencia ambiental y el pensamiento crítico, permitiendo al alumnado comprender la importancia de la ciencia en la protección del medio ambiente y el uso responsable de los recursos naturales.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Esta SdA está dirigida al alumnado de 1º ESO y se centra en el estudio de la ecología, la sostenibilidad y la divulgación científica en la concienciación ambiental. A través de esta propuesta, el alumnado conocerá los saberes básicos habituales y, a la par, investigará sobre grandes divulgadores científicos relacionados con la ecología y la sostenibilidad, con el objetivo de conocer su labor.</p>\n<p>Como producto final, los estudiantes elaborarán un podcast divulgativo en el que presentarán la biografía y contribuciones a la ciencia de una persona destacada en el ámbito de las ciencias ambientales y la protección del medio ambiente, desarrollando en el proceso habilidades de búsqueda y selección de información, comprensión lectora, expresión oral, trabajo cooperativo y competencia digital, utilizando herramientas tecnológicas para la grabación y edición de audio e imágenes.</p>\n<p>Esta SdA fomenta el desarrollo de la conciencia ambiental y el pensamiento crítico, permitiendo al alumnado comprender la importancia de la ciencia en la protección del medio ambiente y el uso responsable de los recursos naturales.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-61sdup42w</odeBlockId>
+      <blockName>Etapa educativa y nivel</blockName>
+      <iconName>classroom</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-61sdup42w</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-e22li1gr3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA está dirigida al alumnado de 1º de ESO, en un rango de edad comprendido entre 12 y 13 años, en un momento de transición desde la Educación Primaria hacia una etapa caracterizada por un mayor grado de autonomía, responsabilidad y exigencia académica.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA está dirigida al alumnado de 1º de ESO, en un rango de edad comprendido entre 12 y 13 años, en un momento de transición desde la Educación Primaria hacia una etapa caracterizada por un mayor grado de autonomía, responsabilidad y exigencia académica.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-jb607gqwd</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>stars</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-jb607gqwd</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-rzpshpf48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se llevará a cabo a los largo de 6 sesiones en el tercer trimestre en el bloque de ecología, en el mes de mayo - junio, interrelacionando la SdA con otros saberes básicos pertenecientes al bloque de geología, como la hidrosfera y la importancia de la conservación y el conocimiento de los ecosistemas marinos.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se llevará a cabo a los largo de 6 sesiones en el tercer trimestre en el bloque de ecología, en el mes de mayo - junio, interrelacionando la SdA con otros saberes básicos pertenecientes al bloque de geología, como la hidrosfera y la importancia de la conservación y el conocimiento de los ecosistemas marinos.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-6f70a4me8</odeBlockId>
+      <blockName>Áreas, materias y módulos implicados</blockName>
+      <iconName>gears</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-6f70a4me8</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-sqwj7zded</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA se desarrolla en la materia de Biología y Geología, en la que se abordan contenidos relacionados con la ecología, relaciones tróficas, ecosistemas, sostenibilidad y la conservación del medio ambiente.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA se desarrolla en la materia de Biología y Geología, en la que se abordan contenidos relacionados con la ecología, relaciones tróficas, ecosistemas, sostenibilidad y la conservación del medio ambiente.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-h8o8z9eqm</odeBlockId>
+      <blockName>Agrupamientos y ordenación espacial</blockName>
+      <iconName>network</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-h8o8z9eqm</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-015punr91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En esta SdA se emplearán agrupamientos flexibles y variados, con el objetivo de favorecer tanto el aprendizaje individual como el trabajo cooperativo.</p>
+<p>En una primera fase, el alumnado trabajará por pares realizando la búsqueda inicial de información sobre los distintos biomas terrestres para realizar una infografía interactiva.</p>
+<p>Posteriormente, se organizarán pequeños grupos cooperativos para una metodología ABP de 3 a 4 alumnos, para la elaboración del guion y la producción del podcast. Este tipo de agrupamiento favorece el intercambio de ideas, el desarrollo de habilidades comunicativas y la distribución de tareas, permitiendo que cada miembro del grupo asuma un rol específico (investigador, redactor o locutor).</p>
+<p>Las actividades se desarrollarán principalmente en el aula ordinaria así como el aula de informática ya sea para la búsqueda activa de información, realización de infografías o grabación del podcast, agrupándose las mesas por equipos cuando la situación lo requiera.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En esta SdA se emplearán agrupamientos flexibles y variados, con el objetivo de favorecer tanto el aprendizaje individual como el trabajo cooperativo.</p>\n<p>En una primera fase, el alumnado trabajará por pares realizando la búsqueda inicial de información sobre los distintos biomas terrestres para realizar una infografía interactiva.</p>\n<p>Posteriormente, se organizarán pequeños grupos cooperativos para una metodología ABP de 3 a 4 alumnos, para la elaboración del guion y la producción del podcast. Este tipo de agrupamiento favorece el intercambio de ideas, el desarrollo de habilidades comunicativas y la distribución de tareas, permitiendo que cada miembro del grupo asuma un rol específico (investigador, redactor o locutor).</p>\n<p>Las actividades se desarrollarán principalmente en el aula ordinaria así como el aula de informática ya sea para la búsqueda activa de información, realización de infografías o grabación del podcast, agrupándose las mesas por equipos cuando la situación lo requiera.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-q351xdn68</odeBlockId>
+      <blockName>Producciones del alumnado</blockName>
+      <iconName>list</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-q351xdn68</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-vzcg4y9iz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El <strong>producto final</strong> de la presente SdA es un<strong> podcast divulgativo</strong>, que se subirá a la web del centro si la calidad lo permite así como un <strong>producto intermedio</strong> que consistirá en una<strong> infografía interactiva</strong> sobre un bioma de la Tierra.</p>
+<p>- <strong>Infografía</strong> Biomas: En trabajo por pares el alumnado deberá investigar un bioma de la Tierra de su elección y crear una infografía interactiva en Canva o Genially con su pareja.</p>
+<p>-<strong>Podcast</strong> divulgación: En grupos de 3-4 personas el alumnado deberá crear un podcast de unos 3 minutos de duración en el que den a conocer grandes divulgadores/divulgadoras ambientales o ecologistas del mundo que les llamen la atención (tendrán una lista de posibles candidatas/candidatos a su disposición).</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El <strong>producto final</strong> de la presente SdA es un<strong> podcast divulgativo</strong>, que se subirá a la web del centro si la calidad lo permite así como un <strong>producto intermedio</strong> que consistirá en una<strong> infografía interactiva</strong> sobre un bioma de la Tierra.</p>\n<p>- <strong>Infografía</strong> Biomas: En trabajo por pares el alumnado deberá investigar un bioma de la Tierra de su elección y crear una infografía interactiva en Canva o Genially con su pareja.</p>\n<p>-<strong>Podcast</strong> divulgación: En grupos de 3-4 personas el alumnado deberá crear un podcast de unos 3 minutos de duración en el que den a conocer grandes divulgadores/divulgadoras ambientales o ecologistas del mundo que les llamen la atención (tendrán una lista de posibles candidatas/candidatos a su disposición).</p>"}]]></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+      <odeBlockId>block-mon6rgxn-np667e7zn</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName>edia</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-3vcjw41yn</odePageId>
+          <odeBlockId>block-mon6rgxn-np667e7zn</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-pw0pd90ns</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Tanto personal docente como alumnado hará uso de numerosas herramientas tecnológicas como son : <strong>Canva</strong> y <strong>Genially</strong> para la creación de infografías, <strong>YouTube</strong> para visualizar vídeos o<strong> Vocaroo</strong> como plataforma de grabación online. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Tanto personal docente como alumnado hará uso de numerosas herramientas tecnológicas como son : <strong>Canva</strong> y <strong>Genially</strong> para la creación de infografías, <strong>YouTube</strong> para visualizar vídeos o<strong> Vocaroo</strong> como plataforma de grabación online. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>6</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-5f50nmz9c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-5f50nmz9c</odePageId>
+      <odeBlockId>block-mon6rgxn-bdpzcmcqp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-5f50nmz9c</odePageId>
+          <odeBlockId>block-mon6rgxn-bdpzcmcqp</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-hoo3pkywp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA busca que el alumnado comprenda, valore y analice conceptos fundamentales de ecología, relaciones tróficas y contaminación ambiental para desarrollar una visión integrada de la salud humana y ambiental. Más allá del conocimiento, busca despertar conciencia ecológica fundamentada y analizar críticamente impactos a la biodiversidad, despertando el interés y la curiosidad por las ciencias ambientales.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA busca que el alumnado comprenda, valore y analice conceptos fundamentales de ecología, relaciones tróficas y contaminación ambiental para desarrollar una visión integrada de la salud humana y ambiental. Más allá del conocimiento, busca despertar conciencia ecológica fundamentada y analizar críticamente impactos a la biodiversidad, despertando el interés y la curiosidad por las ciencias ambientales.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-6r6zauo6j</odePageId>
+  <odeParentPageId>page-mon6rgxm-5f50nmz9c</odeParentPageId>
+  <pageName>Justificación de su desarrollo y el impacto esperado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de su desarrollo y el impacto esperado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-6r6zauo6j</odePageId>
+      <odeBlockId>block-mon6rgxn-84ex12goy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-6r6zauo6j</odePageId>
+          <odeBlockId>block-mon6rgxn-84ex12goy</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-gfsbvlu0z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA se plantea con el fin de adquirir una base integral de comprensión del funcionamiento de los ecosistemas y las amenazas que sufren. Partiendo de metodologías activas el alumnado se convierte en protagonista de su propio aprendizaje con el fin de alcanzar las competencias requeridas. Esta SdA da respuesta a la necesidad de fomentar vocaciones STEM, especialmente entre alumnas, despierta interés y curiosidad por el medio ambiente a través del estudio de sus grandes defensores.</p>
+<p>Se espera que la SdA despierte <strong>concienciación ambiental</strong> en todo el alumnado y que tomen conciencia de la problemática ecológica global, así como posibles acciones para reducir el impacto ambiental del ser humano. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA se plantea con el fin de adquirir una base integral de comprensión del funcionamiento de los ecosistemas y las amenazas que sufren. Partiendo de metodologías activas el alumnado se convierte en protagonista de su propio aprendizaje con el fin de alcanzar las competencias requeridas. Esta SdA da respuesta a la necesidad de fomentar vocaciones STEM, especialmente entre alumnas, despierta interés y curiosidad por el medio ambiente a través del estudio de sus grandes defensores.</p>\n<p>Se espera que la SdA despierte <strong>concienciación ambiental</strong> en todo el alumnado y que tomen conciencia de la problemática ecológica global, así como posibles acciones para reducir el impacto ambiental del ser humano. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-kyusvuqmf</odePageId>
+  <odeParentPageId>page-mon6rgxm-5f50nmz9c</odeParentPageId>
+  <pageName>Relación de la SdA con los ODS y Retos del siglo XXI</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de la SdA con los ODS y Retos del siglo XXI</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-kyusvuqmf</odePageId>
+      <odeBlockId>block-mon6rgxn-fojw1tdt6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-kyusvuqmf</odePageId>
+          <odeBlockId>block-mon6rgxn-fojw1tdt6</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxn-1wj6zh93e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/ODS-Objetivos-Desarrollo-Sostenible-Ekomodo-e1582029087666-1568x929.jpg" alt="Objetivos de Desarrollo Sostenible" title="ODS" width="400" height="237" style="float: right;" />La presente SdA se relaciona con los ODS promoviendo la concienciación ambiental, el pensamiento crítico y la responsabilidad individual y colectiva hacia el cuidado del medio ambiente y la sostenibilidad.</p>
+<p>En particular, esta situación de aprendizaje contribuye al desarrollo de los siguientes ODS:</p>
+<p><strong>ODS 4</strong>:<strong> Educación de calidad</strong>, al fomentar el acceso a aprendizajes significativos, el uso de herramientas digitales y el desarrollo de competencias clave mediante la creación de podcasts divulgativos.<br /><strong>ODS 11</strong>: <strong>Ciudades y comunidades sostenibles</strong> y <strong>ODS 12</strong>: <strong>Producción y consumo responsables</strong>, al sensibilizar al alumnado sobre la importancia de adoptar hábitos sostenibles y responsables con el uso de los recursos naturales.<br /><strong>ODS 13</strong>: <strong>Acción por el clima</strong>, <strong>ODS 14</strong>: <strong>Vida submarina </strong>y <strong>ODS 15</strong>: <strong>Vida de ecosistemas terrestres</strong>, al promover la comprensión de los problemas ambientales y el papel de la ciudadanía en la mitigación del cambio climático y al trabajar contenidos relacionados con la biodiversidad, la conservación de ecosistemas y la importancia de su protección.</p>
+<p>LA SdA se vincula con los <strong>Retos del siglo XXI</strong>, ya que impulsa el desarrollo de una <strong>ciudadanía crítica</strong>, informada y comprometida con la <strong>sostenibilidad</strong> así como un <strong>uso ético y eficaz de las tecnologías</strong>. A través del estudio de divulgadores científicos en el ámbito de la ecología y la sostenibilidad, el alumnado comprende la importancia de la comunicación científica en la sociedad actual y el <strong>papel de la ciencia en la resolución de problemas globales</strong>, así como <strong>la importancia de la protección del mundo animal y los ecosistemas globales</strong>.</p>
+<p>El uso del formato podcast favorece el desarrollo de la <strong>competencia digital</strong>, la <strong>creatividad</strong> y la <strong>comunicación y habilidades sociales</strong>, esenciales para afrontar los desafíos globales. De este modo, la actividad no solo contribuye a la adquisición de conocimientos científicos, sino que también <strong>promueve valores</strong> como la cooperación, la responsabilidad ambiental y el compromiso con un futuro sostenible.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/ODS-Objetivos-Desarrollo-Sostenible-Ekomodo-e1582029087666-1568x929.jpg\" alt=\"Objetivos de Desarrollo Sostenible\" title=\"ODS\" width=\"400\" height=\"237\" style=\"float: right;\" />La presente SdA se relaciona con los ODS promoviendo la concienciación ambiental, el pensamiento crítico y la responsabilidad individual y colectiva hacia el cuidado del medio ambiente y la sostenibilidad.</p>\n<p>En particular, esta situación de aprendizaje contribuye al desarrollo de los siguientes ODS:</p>\n<p><strong>ODS 4</strong>:<strong> Educación de calidad</strong>, al fomentar el acceso a aprendizajes significativos, el uso de herramientas digitales y el desarrollo de competencias clave mediante la creación de podcasts divulgativos.<br /><strong>ODS 11</strong>: <strong>Ciudades y comunidades sostenibles</strong> y <strong>ODS 12</strong>: <strong>Producción y consumo responsables</strong>, al sensibilizar al alumnado sobre la importancia de adoptar hábitos sostenibles y responsables con el uso de los recursos naturales.<br /><strong>ODS 13</strong>: <strong>Acción por el clima</strong>, <strong>ODS 14</strong>: <strong>Vida submarina </strong>y <strong>ODS 15</strong>: <strong>Vida de ecosistemas terrestres</strong>, al promover la comprensión de los problemas ambientales y el papel de la ciudadanía en la mitigación del cambio climático y al trabajar contenidos relacionados con la biodiversidad, la conservación de ecosistemas y la importancia de su protección.</p>\n<p>LA SdA se vincula con los <strong>Retos del siglo XXI</strong>, ya que impulsa el desarrollo de una <strong>ciudadanía crítica</strong>, informada y comprometida con la <strong>sostenibilidad</strong> así como un <strong>uso ético y eficaz de las tecnologías</strong>. A través del estudio de divulgadores científicos en el ámbito de la ecología y la sostenibilidad, el alumnado comprende la importancia de la comunicación científica en la sociedad actual y el <strong>papel de la ciencia en la resolución de problemas globales</strong>, así como <strong>la importancia de la protección del mundo animal y los ecosistemas globales</strong>.</p>\n<p>El uso del formato podcast favorece el desarrollo de la <strong>competencia digital</strong>, la <strong>creatividad</strong> y la <strong>comunicación y habilidades sociales</strong>, esenciales para afrontar los desafíos globales. De este modo, la actividad no solo contribuye a la adquisición de conocimientos científicos, sino que también <strong>promueve valores</strong> como la cooperación, la responsabilidad ambiental y el compromiso con un futuro sostenible.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-txylf8qno</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-1dihxtyr2</odePageId>
+  <odeParentPageId>page-mon6rgxm-txylf8qno</odeParentPageId>
+  <pageName>Competencias clave</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-1dihxtyr2</odePageId>
+      <odeBlockId>block-mon6rgxo-0eyezfo65</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-1dihxtyr2</odePageId>
+          <odeBlockId>block-mon6rgxo-0eyezfo65</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-2wt36amyu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA trabaja las siguientes competencias clave:</p>
+<p></p>
+<p><br />1. Competencia en comunicación lingüística (<strong>CCL</strong>)</p>
+<p>2. Competencia matemática y en ciencia, tecnología e ingeniería (<strong>STEM</strong>)</p>
+<p>3. Competencia digital (<strong>CD</strong>)</p>
+<p>4. Competencia personal, social y de aprender a aprender (<strong>CPSAA</strong>)</p>
+<p>5. Competencia ciudadana (<strong>CC</strong>)</p>
+<p>6. Competencia en conciencia y expresión culturales (<strong>CCEC</strong>)</p>
+<p>7. Competencia emprendedora (<strong>CE</strong>)</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA trabaja las siguientes competencias clave:</p>\n<p></p>\n<p><br />1. Competencia en comunicación lingüística (<strong>CCL</strong>)</p>\n<p>2. Competencia matemática y en ciencia, tecnología e ingeniería (<strong>STEM</strong>)</p>\n<p>3. Competencia digital (<strong>CD</strong>)</p>\n<p>4. Competencia personal, social y de aprender a aprender (<strong>CPSAA</strong>)</p>\n<p>5. Competencia ciudadana (<strong>CC</strong>)</p>\n<p>6. Competencia en conciencia y expresión culturales (<strong>CCEC</strong>)</p>\n<p>7. Competencia emprendedora (<strong>CE</strong>)</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-ugkvdp1t2</odePageId>
+  <odeParentPageId>page-mon6rgxm-txylf8qno</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-ugkvdp1t2</odePageId>
+      <odeBlockId>block-mon6rgxo-cytsqttid</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-ugkvdp1t2</odePageId>
+          <odeBlockId>block-mon6rgxo-cytsqttid</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-r7o6bwv74</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><em><strong>Competencia específica 1</strong>. Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.</em></p>
+<p><em><strong>Competencia específica 2</strong>. Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</em></p>
+<p><em><strong>Competencia específica 5</strong>. Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva.</em></p>
+<p><em><strong>Competencia específica 6</strong>. Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posibles riesgos naturales.</em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><em><strong>Competencia específica 1</strong>. Interpretar y transmitir información y datos científicos, argumentando sobre ellos y utilizando diferentes formatos para analizar conceptos y procesos de las ciencias biológicas y geológicas.</em></p>\n<p><em><strong>Competencia específica 2</strong>. Identificar, localizar y seleccionar información, contrastando su veracidad, organizándola y evaluándola críticamente, para resolver preguntas relacionadas con las ciencias biológicas y geológicas.</em></p>\n<p><em><strong>Competencia específica 5</strong>. Analizar los efectos de determinadas acciones sobre el medio ambiente y la salud, basándose en los fundamentos de las ciencias biológicas y de la Tierra, para promover y adoptar hábitos que eviten o minimicen los impactos medioambientales negativos, sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva.</em></p>\n<p><em><strong>Competencia específica 6</strong>. Analizar los elementos de un paisaje concreto valorándolo como patrimonio natural y utilizando conocimientos sobre geología y ciencias de la Tierra para explicar su historia geológica, proponer acciones encaminadas a su protección e identificar posibles riesgos naturales.</em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-i2t1fc5qh</odePageId>
+  <odeParentPageId>page-mon6rgxm-txylf8qno</odeParentPageId>
+  <pageName>Saberes básicos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes básicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-i2t1fc5qh</odePageId>
+      <odeBlockId>block-mon6rgxo-p5cs0s69w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-i2t1fc5qh</odePageId>
+          <odeBlockId>block-mon6rgxo-p5cs0s69w</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-xdsiao19j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><em><strong>Bloque E. «Ecología y sostenibilidad»</strong></em></p>
+<p>- Los ecosistemas del entorno, sus componentes bióticos y abióticos y los tipos de relaciones intraespecíficas e interespecíficas.</p>
+<p>- La importancia de la conservación de los ecosistemas, la biodiversidad y la implantación de un modelo de desarrollo sostenible.</p>
+<p>- La importancia de los hábitos sostenibles (consumo responsable, prevención y gestión de residuos, respeto al medio ambiente, etc.).</p>
+<p>- La relación entre la salud medioambiental, humana y de otros seres vivos: one health (una sola salud).</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><em><strong>Bloque E. «Ecología y sostenibilidad»</strong></em></p>\n<p>- Los ecosistemas del entorno, sus componentes bióticos y abióticos y los tipos de relaciones intraespecíficas e interespecíficas.</p>\n<p>- La importancia de la conservación de los ecosistemas, la biodiversidad y la implantación de un modelo de desarrollo sostenible.</p>\n<p>- La importancia de los hábitos sostenibles (consumo responsable, prevención y gestión de residuos, respeto al medio ambiente, etc.).</p>\n<p>- La relación entre la salud medioambiental, humana y de otros seres vivos: one health (una sola salud).</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-yyy96k14m</odePageId>
+  <odeParentPageId>page-mon6rgxm-txylf8qno</odeParentPageId>
+  <pageName>Criterios de evaluación relacionados con las competencias específicas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación relacionados con las competencias específicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-yyy96k14m</odePageId>
+      <odeBlockId>block-mon6rgxo-g9n4e7cau</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-yyy96k14m</odePageId>
+          <odeBlockId>block-mon6rgxo-g9n4e7cau</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-92j4cre0s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Criterios asociados a la SdA: 1.1, 1.2, 1.3, 2.1, 2.2, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3</p>
+<p><strong>1.1</strong>. Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (textos, imágenes, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</p>
+<p><strong>1.2</strong>. Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</p>
+<p><strong>1.3</strong>. Analizar y explicar fenómenos biológicos y geológicos representándolos mediante modelos y diagramas, utilizando, cuando sea necesario, los pasos del método científico o del diseño de ingeniería (identificación del problema, exploración, diseño, creación, evaluación y mejora).</p>
+<p><strong>2.1</strong>. Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</p>
+<p><strong>2.2</strong>. Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</p>
+<p><strong>5.1</strong>. Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida.</p>
+<p><strong>5.2</strong>. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera crítica las actividades propias y ajenas, a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.</p>
+<p><strong>5.3</strong>. Proponer y adoptar hábitos saludables, analizando las acciones propias y ajenas con actitud crítica y a partir de fundamentos fisiológicos</p>
+<p><strong>6.1</strong>. Valorar la importancia del paisaje como patrimonio natural, analizando la fragilidad de los elementos que lo componen.</p>
+<p><strong>6.2</strong>. Interpretar el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental y losriesgos naturales derivados de determinadas acciones humanas.</p>
+<p><strong>6.3</strong>. Reflexionar sobre los riesgos naturales mediante el análisis de los elementos de un paisaje, valorando la importancia de mantener un compromiso con el medio ambiente para el desarrollo seguro, sostenible e igualitario de la humanidad.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Criterios asociados a la SdA: 1.1, 1.2, 1.3, 2.1, 2.2, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3</p>\n<p><strong>1.1</strong>. Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (textos, imágenes, modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</p>\n<p><strong>1.2</strong>. Facilitar la comprensión y análisis de información sobre procesos biológicos y geológicos transmitiéndola de forma clara y utilizando la terminología y los formatos adecuados (imágenes, modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.), exponiendo argumentos fundamentados, respetuosos y flexibles.</p>\n<p><strong>1.3</strong>. Analizar y explicar fenómenos biológicos y geológicos representándolos mediante modelos y diagramas, utilizando, cuando sea necesario, los pasos del método científico o del diseño de ingeniería (identificación del problema, exploración, diseño, creación, evaluación y mejora).</p>\n<p><strong>2.1</strong>. Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</p>\n<p><strong>2.2</strong>. Reconocer la información sobre temas biológicos y geológicos con base científica distinguiéndola de pseudociencias, bulos, teorías conspiratorias y creencias infundadas y manteniendo una actitud escéptica ante estos.</p>\n<p><strong>5.1</strong>. Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida.</p>\n<p><strong>5.2</strong>. Proponer y adoptar hábitos sostenibles básicos, analizando de una manera crítica las actividades propias y ajenas, a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.</p>\n<p><strong>5.3</strong>. Proponer y adoptar hábitos saludables, analizando las acciones propias y ajenas con actitud crítica y a partir de fundamentos fisiológicos</p>\n<p><strong>6.1</strong>. Valorar la importancia del paisaje como patrimonio natural, analizando la fragilidad de los elementos que lo componen.</p>\n<p><strong>6.2</strong>. Interpretar el paisaje analizando sus elementos y reflexionando sobre el impacto ambiental y losriesgos naturales derivados de determinadas acciones humanas.</p>\n<p><strong>6.3</strong>. Reflexionar sobre los riesgos naturales mediante el análisis de los elementos de un paisaje, valorando la importancia de mantener un compromiso con el medio ambiente para el desarrollo seguro, sostenible e igualitario de la humanidad.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-e7aqcuo1c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-e7aqcuo1c</odePageId>
+      <odeBlockId>block-mon6rgxo-uxjxll6gl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-e7aqcuo1c</odePageId>
+          <odeBlockId>block-mon6rgxo-uxjxll6gl</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-4b5vidmhk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/ABP.jpg" alt="Aprendizaje Basado en Proyectos" title="Aprendizaje Basado en Proyectos" width="400" height="148" style="float: right;" />La presente SdA hace uso de metodologías activas que favorecen la atención a la diversidad como el Aprendizaje Basado en Proyectos (<strong>ABP</strong>), el <strong>Flipped Learning</strong> o clase invertida, fundamentándose en los principios <strong>DUA</strong>, nutriéndose esencialmente de las ventajas del ABP favorecedoras de la inclusión.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/ABP.jpg\" alt=\"Aprendizaje Basado en Proyectos\" title=\"Aprendizaje Basado en Proyectos\" width=\"400\" height=\"148\" style=\"float: right;\" />La presente SdA hace uso de metodologías activas que favorecen la atención a la diversidad como el Aprendizaje Basado en Proyectos (<strong>ABP</strong>), el <strong>Flipped Learning</strong> o clase invertida, fundamentándose en los principios <strong>DUA</strong>, nutriéndose esencialmente de las ventajas del ABP favorecedoras de la inclusión.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-2ilhn6q6y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas de centro</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas de centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-2ilhn6q6y</odePageId>
+      <odeBlockId>block-mon6rgxo-wq6xir2yp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-2ilhn6q6y</odePageId>
+          <odeBlockId>block-mon6rgxo-wq6xir2yp</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-negqu07qp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La presente SdA contribuye al <strong>Plan Digital de Centro</strong> (PDC) mediante la publicación en la web de las infografías, así como los podcasts, para dar a conocer a la ciudadanía a nuestros grandes divulgadores y divulgadoras.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La presente SdA contribuye al <strong>Plan Digital de Centro</strong> (PDC) mediante la publicación en la web de las infografías, así como los podcasts, para dar a conocer a la ciudadanía a nuestros grandes divulgadores y divulgadoras.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-psahi30k7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-psahi30k7</odePageId>
+      <odeBlockId>block-mon6rgxo-lnobugf6g</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-psahi30k7</odePageId>
+          <odeBlockId>block-mon6rgxo-lnobugf6g</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-b1iiqjbwa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>No hay actividades complementarias o extraescolares vinculadas a la SdA, pero podría incluirse una salida de campo ''ruta medioambiental'' ya que en primavera se da un clima favorecedor para las salidas y el aprendizaje fuera del aula.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>No hay actividades complementarias o extraescolares vinculadas a la SdA, pero podría incluirse una salida de campo ''ruta medioambiental'' ya que en primavera se da un clima favorecedor para las salidas y el aprendizaje fuera del aula.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-x2n5g7zb9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mon6rgxm-c53k597rg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descargar este eXe</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar este eXe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mon6rgxm-c53k597rg</odePageId>
+      <odeBlockId>block-mon6rgxo-exdbjp2cb</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mon6rgxm-c53k597rg</odePageId>
+          <odeBlockId>block-mon6rgxo-exdbjp2cb</odeBlockId>
+          <odeIdeviceId>idevice-mon6rgxo-e279cd5ki</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Situación de Aprendizaje: Divulgando la ciencia</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Grabación de un podcast para dar a conocer grandes divulgadores y divulgadoras en ecología</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Irene Báez Álvarez</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
